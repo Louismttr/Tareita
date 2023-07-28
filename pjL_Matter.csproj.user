@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="fmrBienvenida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fmrConvertidor_WORD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fmrCrear_Reporte_producos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fmrInformacionAPP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fmrInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fmrPerzonalizar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
